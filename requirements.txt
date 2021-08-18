@@ -2,3 +2,7 @@ opencv-python==4.4.0.46
 dlib==19.17.0
 filetype==1.0.7
 imutils==0.5.3
+fer==21.0.3
+emoji==1.4.2
+Pillow==8.0.1
+webcolors==1.11.1
