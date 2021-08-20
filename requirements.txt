@@ -6,3 +6,4 @@ fer==21.0.3
 emoji==1.4.2
 Pillow==8.0.1
 webcolors==1.11.1
+scipy==1.5.4
